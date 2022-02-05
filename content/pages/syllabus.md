@@ -33,12 +33,57 @@ Grading
 
 Grading will be based on the following weighting:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Attendance and Participation | 20% |
-| Written Work | 60% |
-| In-class Report | 10% |
-| Response Journal | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written Work
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class Report
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Response Journal
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Statement on Plagiarism
 -----------------------
@@ -52,32 +97,345 @@ Plagiarism - use of another's intellectual work without acknowledgement - is a s
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | _Moby-Dick_ | &nbsp; |
-| 3 | _Moby-Dick_ (cont_._) | &nbsp; |
-| 4 | _Moby-Dick_ (cont_._) | Journal 1 due |
-| 5 | _Moby-Dick_ (cont_._) | &nbsp; |
-| 6 | _Moby-Dick_ (cont_._) | &nbsp; |
-| 7 | Essay Discussion | Essay 1 due |
-| 8 | _Israel Potter_ | Journal 2 due |
-| 9 | _Israel Potter_ (cont_._) | &nbsp; |
-| 10 | _The Adventures of Huckleberry Finn_ | &nbsp; |
-| 11 | _The Adventures of Huckleberry Finn_ (cont_._) | &nbsp; |
-| 12 | _The Adventures of Huckleberry Finn_ (cont_._) | &nbsp; |
-| 13 | _Pudd'nhead Wilson_ | &nbsp; |
-| 14 | Essay Discussion | Essay 2 due |
-| 15 | _The Sound and the Fury_ | &nbsp; |
-| 16 | _The Sound and the Fury_ (cont_._) | &nbsp; |
-| 17 | _The Sound and the Fury_ (cont_._) | Journal 3 due |
-| 18 | _The Sound and the Fury_ (cont_._) | &nbsp; |
-| 19 | _As I Lay Dying_ | &nbsp; |
-| 20 | _As I Lay Dying_ (cont.) | &nbsp; |
-| 21 | Journal Discussion | Journal 4 due |
-| 22 | _Beloved_ | &nbsp; |
-| 23 | _Beloved_ (cont.) | &nbsp; |
-| 24 | _Beloved_ (cont.) | Journal 5 due |
-| 25 | _Love_ | &nbsp; |
-| 26 | _Love_ (cont.) | &nbsp; |
-| 27 | Conclusion | Essay 3 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_Moby-Dick_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Moby-Dick_ (cont_._)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Moby-Dick_ (cont_._)
+{{< tdclose >}}
+{{< tdopen >}}
+Journal 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_Moby-Dick_ (cont_._)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_Moby-Dick_ (cont_._)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Essay Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+_Israel Potter_
+{{< tdclose >}}
+{{< tdopen >}}
+Journal 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_Israel Potter_ (cont_._)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+_The Adventures of Huckleberry Finn_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_The Adventures of Huckleberry Finn_ (cont_._)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+_The Adventures of Huckleberry Finn_ (cont_._)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+_Pudd'nhead Wilson_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Essay Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_The Sound and the Fury_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+_The Sound and the Fury_ (cont_._)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+_The Sound and the Fury_ (cont_._)
+{{< tdclose >}}
+{{< tdopen >}}
+Journal 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+_The Sound and the Fury_ (cont_._)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+_As I Lay Dying_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+_As I Lay Dying_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Journal Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Journal 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+_Beloved_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+_Beloved_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+_Beloved_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Journal 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+_Love_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+_Love_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
